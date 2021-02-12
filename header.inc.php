@@ -45,5 +45,4 @@
                 </ul>
             </div>
         </nav>
-
-    ...PHP Body
+        <br><hr><br>
