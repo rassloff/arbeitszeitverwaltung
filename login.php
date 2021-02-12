@@ -14,8 +14,12 @@ if(isset( $_REQUEST["userpassword"] )){     $password = $_REQUEST["userpassword"
 
 <?php
 
-echo "user: " . $user;
-echo "password: " . $password;
+if( $user == "email@example.com" ){
+    echo "ha ha -- nice try !!! <br>";
+}
+
+echo "user: " . $user . "<br>";
+echo "password: " . $password . "<br>";
 
 require_once("footer.inc.php");
 
