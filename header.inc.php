@@ -47,5 +47,3 @@
         </nav>
 
     ...PHP Body
-
-    </div><!-- end of div container - end of content -->
