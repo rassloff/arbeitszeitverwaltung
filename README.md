@@ -9,4 +9,20 @@ todo
 
 login register
 
+Arbeitszeit Tabelle
 
+anlegen
+
+eintragen
+
+edit
+
+detail
+
+delete
+
+Wochenansicht
+
+Monatsansicht
+
+Jahresansicht
