@@ -5,7 +5,7 @@ require_once("header.inc.php");
 ?>
 <h4>Login with HTML (Bootstrap) only</h4>
 
-<div class="dropdown-menu">
+<div>
   <form class="px-4 py-3">
     <div class="form-group">
       <label for="exampleDropdownFormEmail1">Email address</label>
