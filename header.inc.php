@@ -36,10 +36,10 @@
                     Dropdown link
                     </a>
                     <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                    <a class="dropdown-item" href="#">JavaScript</a>
-                    <a class="dropdown-item" href="#">AJAX</a>
-                    <a class="dropdown-item" href="#">Jquery</a>
-                    <a class="dropdown-item" href="#">HTML ohne</a>
+                    <a class="dropdown-item" href="login_javascript.php">JavaScript</a>
+                    <a class="dropdown-item" href="login_ajax.php">AJAX</a>
+                    <a class="dropdown-item" href="login_jquery.php">Jquery</a>
+                    <a class="dropdown-item" href="login_html.php">HTML ohne</a>
                     </div>
                 </li>
                 </ul>
